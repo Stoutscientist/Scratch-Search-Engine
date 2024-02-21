@@ -10,3 +10,6 @@ Lets you run a search engine in Scratch!
 - Enter your Scratch username, ex `SCRATCH_USERNAME=Stoutscientist`
 - Add your Scratch project, ex `SCRATCH_PROJECT=967768776`
 - Run the EXE!
+
+### Notes
+For some reason PyInstaller's exes get flagged as a virus, make sure to add the EXE as an exeption.
